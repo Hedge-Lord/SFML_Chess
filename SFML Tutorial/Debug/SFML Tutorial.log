@@ -1,0 +1,14 @@
+﻿  ChessWindow.cpp
+C:\Users\georg\Desktop\cs32\SFML Tutorial\SFML Tutorial\ChessWindow.cpp(46,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\georg\Desktop\cs32\SFML Tutorial\SFML Tutorial\ChessWindow.cpp(46,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  Generating Code...
+  SFML Tutorial.vcxproj -> C:\Users\georg\Desktop\cs32\SFML Tutorial\Debug\SFML Tutorial.exe
